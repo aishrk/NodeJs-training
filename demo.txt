@@ -1,1 +1,3 @@
 changing for merging 
+
+for merge the code in git
