@@ -4,6 +4,6 @@ const insertDoc = () => {
         "password" : "bar123"
     }, (err, result)=>{
         if(err) console.log(err)
-        console.log("[RESULT]",result);
+        
     })
 }
